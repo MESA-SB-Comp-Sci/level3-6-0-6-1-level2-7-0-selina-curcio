@@ -5,3 +5,42 @@
 }
 
 /* write all your rules below */
+.header {
+    display:flex;
+    width:50vw;
+    height:50px;
+    border: 10px solid red;
+    background-color: pink;
+    margin:100px;
+    align-items:center;
+}
+
+.main {
+    background-color:aquamarine;
+    display:flex;
+  
+    width: 60vw;
+    height: 40vh;
+    margin: 60px;
+}
+
+.second-main {
+    display:flex;
+    background-color:yellow;
+    border:10px solid pink;
+    width: 30vw;
+    height:15vh;
+    margin: 100px;
+}
+
+#text-1 {
+    color:blue;
+}
+
+#text-2 {
+    color: green;
+}
+
+.color {
+    color:purple;
+}
